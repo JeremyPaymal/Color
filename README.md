@@ -1,5 +1,5 @@
 # Color
-## Demo Coming soon
+## Demo: https://choose-your-colors.netlify.app/
 
 ## Description:
 <hr>
